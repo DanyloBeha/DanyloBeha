@@ -8,6 +8,6 @@
 - I study CS at Kyiv-Mohyla Academy
 - 2x Hackathon & 2x Robotics Winner
 - Launched a Rocket
-- Pet-project with users:
+- Pet-projects with users:
   - [kmaevents.com](https://kmaevents.com/) (1500 users)
   - [robosumo.tech](https://robosumo.tech/)
